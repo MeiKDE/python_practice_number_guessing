@@ -37,5 +37,3 @@ This is a Python-based **Number Guessing Game** where the player tries to guess 
 - **`hard_level(hard)`**:
   - This function runs the game in hard mode, giving the player 5 attempts to guess the number. Similar to the easy level, it provides feedback on each guess.
 
-## Example Game Play
-
